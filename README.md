@@ -5,4 +5,5 @@ A Pokémon themed fitness iOS application to motivate users to stay active by in
 
 
 ## Screenshots
+Current Figma Design
 ![alt text](https://i.imgur.com/h1J3ZIQ.png)
