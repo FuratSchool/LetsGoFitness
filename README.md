@@ -5,4 +5,4 @@ A Pokémon themed fitness iOS application to motivate users to stay active by in
 
 
 ## Screenshots
-![alt text](https://imgur.com/a/0hM1EKA)
+![alt text](https://i.imgur.com/h1J3ZIQ.png)
